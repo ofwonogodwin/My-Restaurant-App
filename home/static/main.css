@@ -1,0 +1,21 @@
+header{
+    background-color: rgb(27, 27, 48);
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding: 20px;
+    /* margin-top: 6px; */
+    /* margin-bottom: 10px; */
+}
+
+.image{
+    height: 30px;
+    width: 30px;
+    border-radius: 50px;
+}
+a{
+    font-size: 30px;
+    color: rgb(49, 106, 177);
+    text-decoration: none;
+    padding: 20px;
+    
+}
